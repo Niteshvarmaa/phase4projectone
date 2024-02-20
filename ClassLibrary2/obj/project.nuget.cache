@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDVOf8Ziy1yWWggYHdADcpZqr6doOw+fbZ5OZMWfh7rDlST1iluRYhE2BqG5xbd7T65lGaWFrhbhjmKx7qc2xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\ClassLibrary2\\ClassLibrary2\\ClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
